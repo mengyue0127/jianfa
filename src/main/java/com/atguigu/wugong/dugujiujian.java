@@ -7,5 +7,6 @@ public class dugujiujian {
         System.out.println("九");
         System.out.println("剑");
         System.out.println("剑");
+        System.out.println("剑");
     }
 }
